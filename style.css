@@ -1,12 +1,33 @@
 body{
+    font-family: 'Courier New', Courier, monospace;
     background-color: grey;
-    font-family: 'Times New Roman', Times, serif;
 }
 
-.header {
+.navigation_bar, .header, .p {
+    font-family: 'Courier New', Courier, monospace;
     text-align-last: center;
 }    
 
-.navigation_bar {
-    text-align-last: center;
+.about_paragraph {
+    text-align: center;
+    border: 15px gold;
+    border-radius: 10px;
+}
+
+.photos_left {
+    text-align: left;
+}
+
+.photos_right {
+    text-align: right;
+}
+
+.photos_center {
+    text-align: center;
+}
+.catalog_header, .about_header {
+    font-size: 20px;
+    text-align: center;
+    border-style: groove;
+    border-color: gold;
 }
