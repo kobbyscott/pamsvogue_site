@@ -1,9 +1,12 @@
 body{
     background-color: grey;
-    font-family: 'Courier New', Courier, monospace;
-
-    .header {
-        text-align-last: center;
-    }    
+    font-family: 'Times New Roman', Times, serif;
 }
 
+.header {
+    text-align-last: center;
+}    
+
+.navigation_bar {
+    text-align-last: center;
+}
